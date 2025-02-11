@@ -29,12 +29,6 @@
     </tr>
   </table>
 </div>
-
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  I’m an IT student fascinated by cybersecurity. I love exploring new tech, understanding network security, and staying curious in the ever-evolving IT world.
-</p>
-
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="Tech Stack"> Tech Stack
 </h1>
