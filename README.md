@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="wave.gif" width="48" alt="Wave"></a> , I'm Mert Okan
+  Hello, I'm Mert Okan
 </h1>
 <p align="center"></p>
 
