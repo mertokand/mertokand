@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
 <h1 align="center">
   Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="wave.gif" width="48" alt="Wave"></a> , I'm Mert Okan
 </h1>
@@ -124,5 +122,3 @@
     </tbody>
   </table>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
